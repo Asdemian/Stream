@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a5ed298-767d-487d-ba5c-820eb59f9466" name="Changes" comment="Начали">
+    <list default="true" id="4a5ed298-767d-487d-ba5c-820eb59f9466" name="Changes" comment="ДЗ 1-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675167066921</updated>
-      <workItem from="1675167069528" duration="4528000" />
+      <workItem from="1675167069528" duration="5876000" />
     </task>
     <task id="LOCAL-00001" summary="Начали">
       <created>1675176652080</created>
@@ -73,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675176652080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ 1-1">
+      <created>1675177823233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675177823233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ДЗ 1-1">
+      <created>1675178015814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675178015814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начали" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начали" />
+    <MESSAGE value="ДЗ 1-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 1-1" />
   </component>
 </project>

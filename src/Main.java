@@ -15,7 +15,7 @@ public class Main {
                 (e, s) -> System.out.println(String.format("min: " + e + " max: " + s))
         );
 
-
+        listOfEvenNumbers(85, 5, 5, 45, 544, 54, 45, 445, 54);
     }
 
     public static <T> void findMinMax(
@@ -38,4 +38,11 @@ public class Main {
         }
     }
 
+    public static void listOfEvenNumbers(Integer... integers) {
+        ArrayList<Integer> enumeration = new ArrayList<>(List.of(integers));
+        List<Integer> enumer = enumeration.stream()
+                .filter(e -> (e % 2 == 0))
+                .toList();
+        System.out.println("Количество четных: " + enumer.size());
+    }
 }
